@@ -1,3 +1,4 @@
+package yooo;
 import java.util.*;
 
 public class Yo {
